@@ -1,4 +1,4 @@
-{
+k{
   "intenets": [
     {
       "tag": "greetings",
@@ -50,8 +50,8 @@
       "responses": ["I'm doing alright, thanks.", "Yeah, not too bad.", "Yeah alright",]
     }
     {
-      "tag": "ask-health",
-      "patterns": ["how are you?", "are you well?", "are you doing good?", "are you happy?"],
+      "tag": "ask-name",
+      "patterns": ["what's your name?", "do you have a name?", "what do i call you?", "who are you?"],
       "responses": ["I'm doing alright, thanks.", "Yeah, not too bad.", "Yeah alright",]
     }
     {
