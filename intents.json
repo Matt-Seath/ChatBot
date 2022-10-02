@@ -1,0 +1,73 @@
+{
+  "intenets": [
+    {
+      "tag": "greetings",
+      "patterns": ["hello", "hey", "hi", "good day", "whats up", "yo", "gidday", "waddup", "sup"],
+      "responses": ["Hello!", "Hi there.", "Yo.", "Howdy.", "Oh hi there!"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "cya",
+        "goodbye",
+        "farewell",
+        "have a good day",
+        "bye",
+        "adios",
+        "good night",
+        "talk to you later",
+        "ttyl",
+		"see ya"
+      ],
+      "responses": [
+		  "Goodbye.", 
+		  "Farewell.", 
+		  "Take care.", 
+		  "Adios.",
+		  "Until next time..",
+		  "See ya!"
+	  ]
+    },
+    {
+      "tag": "time",
+      "patterns": ["what's the time?", "what time is it?", "current time"],
+      "responses": ["It's time"]
+    },
+    {
+      "tag": "ask-health",
+      "patterns": ["how are you?", "are you well?", "are you doing good?", "are you happy?"],
+      "responses": ["I'm doing alright, thanks.", "Yeah, not too bad.", "Yeah alright",]
+    }
+    {
+      "tag": "ask-activity",
+      "patterns": [
+		  "what are you doing?", 
+		  "what are you up to today?", 
+		  "are you busy?", 
+		  "what's up", 
+		  "what doing?"
+	  ],
+      "responses": ["I'm doing alright, thanks.", "Yeah, not too bad.", "Yeah alright",]
+    }
+    {
+      "tag": "ask-health",
+      "patterns": ["how are you?", "are you well?", "are you doing good?", "are you happy?"],
+      "responses": ["I'm doing alright, thanks.", "Yeah, not too bad.", "Yeah alright",]
+    }
+    {
+      "tag": "ask-health",
+      "patterns": ["how are you?", "are you well?", "are you doing good?", "are you happy?"],
+      "responses": ["I'm doing alright, thanks.", "Yeah, not too bad.", "Yeah alright",]
+    }
+    {
+      "tag": "ask-health",
+      "patterns": ["how are you?", "are you well?", "are you doing good?", "are you happy?"],
+      "responses": ["I'm doing alright, thanks.", "Yeah, not too bad.", "Yeah alright",]
+    }
+    {
+      "tag": "ask-health",
+      "patterns": ["how are you?", "are you well?", "are you doing good?", "are you happy?"],
+      "responses": ["I'm doing alright, thanks.", "Yeah, not too bad.", "Yeah alright",]
+    }
+  ]
+}
